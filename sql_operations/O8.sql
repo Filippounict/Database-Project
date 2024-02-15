@@ -1,0 +1,1 @@
+UPDATE Prenotazione SET statoPrenotazione = 'annullata' WHERE IdPrenotazione = 1000;

@@ -1,0 +1,1 @@
+INSERT INTO Abbonamento (IdAbbonamento,IdCliente, tipologia, dataInizio) VALUES (1502,3, 'mensile', '2023-03-01');
